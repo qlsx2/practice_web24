@@ -9,6 +9,6 @@ $('.main_visual_slide').slick({
     arrows:false,
     //dots: true,
     autoplay: true,
-    pasueonhover: false,
+    pasueOnHover: false,
 });
 })

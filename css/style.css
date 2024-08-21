@@ -170,11 +170,11 @@
     background: url(../images/arrow_28.png) no-repeat center center;
 }
 
-.main_content  .inner .itm .img_box {
+.main_content .inner .itm .img_box {
     overflow: hidden;
 }
 
-.main_content .inner .itm .img {
+.main_content .inner .itm img {
     transition: 0.4s;
 }
 
